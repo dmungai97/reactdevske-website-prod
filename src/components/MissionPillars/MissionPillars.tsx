@@ -16,7 +16,7 @@ export default function MissionPillars() {
             <div className="w-full overflow-hidden aspect-w-4 aspect-h-3">
               <Image
                 src={'https://res.cloudinary.com/reactjs-devs-ke/image/upload/v1678532588/website-images/mentorship-image_tz0mor.jpg'}
-                alt="Mentorship Image"
+                alt="Mentorship-Image"
                 layout="fill"
               />
             </div>
